@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there! I'm Neftalí Cruz
 
-<!--
-**neftaliCruzSosa/neftaliCruzSosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Fullstack MERN** developer with freelance and team-based experience. I enjoy building useful, scalable, and elegant web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently working on:
+
+- Uploading my latest projects to GitHub  
+- Open to remote or international opportunities  
+- Always learning and improving my skills
+
+---
+
+## 🚀 Technologies I use
+
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript, TailwindCSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, Mongoose  
+- **Tools:** Git, GitHub, Vercel, Postman
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/neftali-de-la-cruz-sosa/) 
+📧 neftalicruzsosa@gmail.com
+
+---
+
+Thanks for visiting my profile!
